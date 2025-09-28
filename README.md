@@ -2,15 +2,11 @@
 
 ## A comprehensive Database Management System designed to centralize, simplify, and enhance the process of planning, discovering, and booking travel experiences.
 
----
-
 ## Overview
 
 **VoyageVault** is an advanced, web-based platform that tackles the challenge of fragmented travel information by consolidating it into one secure, well-structured database. The system provides a unified, user-friendly environment for travelers to **explore destinations**, **manage their plans**, and **book trips** efficiently. It also includes a dedicated administrative module for content and user management.
 
----
-
-## 🚀 Key Features
+## Key Features
 
 * **Advanced Destination Search:** Users can easily discover and filter travel destinations based on various criteria, including **category** (mountains, beaches, historical sites, etc.), **cost range**, and **location**.
 * **Integrated Booking System:** Enables direct bookings for trips and allows exploration of all-inclusive **travel packages** (detailing timeframe, budget, and activities).
@@ -19,9 +15,7 @@
 * **Detailed Information:** View comprehensive data on attractions, activities, minimum/maximum costs, and user-submitted experiences for every destination.
 * **Admin Management:** A secure module for administrators to manage destinations, moderate user content, and analyze data for service improvements.
 
----
-
-## 💻 Tech Stack
+##  Tech Stack
 
 The VoyageVault application is built using the following technologies:
 
@@ -35,7 +29,7 @@ The VoyageVault application is built using the following technologies:
 
 ---
 
-## 🔑 Usage
+## Usage
 
 1.  **Registration/Login:** New users must sign up by providing a unique username, email, contact number, and password. Existing users can log in to access the dashboard.
 2.  **Explore Destinations:** View listed destinations and use the **filters** to narrow results by category (e.g., adventure, leisure) and price range.
@@ -44,7 +38,7 @@ The VoyageVault application is built using the following technologies:
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 The following features are planned for future versions to expand the system's capabilities:
 
