@@ -37,6 +37,14 @@ The VoyageVault application is built using the following technologies:
 4.  **Review and Rate:** Users can submit a **rating (1-5 stars)** and a **comment** on any destination they have visited to share their experience.
 
 ---
+## Output
+
+![VoyageVault Home Screen](./output/p1.jpg)
+![VoyageVault](./output/p2.jpg)
+![VoyageVault](./output/p6.jpg)
+![VoyageVault](./output/p7.jpg)
+![VoyageVault](./output/p8.jpg)
+
 
 ## Future Enhancements
 
