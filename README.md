@@ -39,11 +39,11 @@ The VoyageVault application is built using the following technologies:
 ---
 ## Output
 
-![VoyageVault Home Screen](./output/p1.jpg)
-![VoyageVault](./output/p2.jpg)
-![VoyageVault](./output/p6.jpg)
-![VoyageVault](./output/p7.jpg)
-![VoyageVault](./output/p8.jpg)
+![VoyageVault Home Screen](./output/p1.JPG)
+![VoyageVault](./output/p2.JPG)
+![VoyageVault](./output/p6.JPG)
+![VoyageVault](./output/p7.JPG)
+![VoyageVault](./output/p8.JPG)
 
 
 ## Future Enhancements
